@@ -1,5 +1,7 @@
 ﻿
 using classc_.models;
+using System.Diagnostics;
+using System.Security.Cryptography;
 using System.Text;
 #region task1
 
@@ -25,6 +27,19 @@ using System.Text;
 //Account input2 = new(username, password);
 //input2.Condition();
 #endregion
-int num=int.Parse(Console.ReadLine());
-Factorial input3=new (num);
-input3.Factor();
+#region task3
+//int num = int.Parse(Console.ReadLine());
+//Factorial input3 = new(num);
+//input3.Factor();
+#endregion
+#region task4
+Console.Write("reqemi daxil edin:");
+int num1 = int.Parse(Console.ReadLine());
+Console.Write("prossesi daxil edin (+,-,*,/):");
+string prosses = Console.ReadLine();
+Console.Write("reqemi daxil edin:");
+int num2 = int.Parse(Console.ReadLine());
+Caculate test1 = new(num1, num2, prosses);
+test1.StartProsses();
+#endregion
+
