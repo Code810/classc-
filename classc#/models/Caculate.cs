@@ -25,7 +25,7 @@ namespace classc_.models
             prosses == "-" ? $"{num1 - num2}" :
             prosses == "*" ? $"{num1 * num2}" :
             prosses == "/" ? $"{num1 / num2}" :"Duzgun daxil edin";
-            Console.WriteLine(result);
+            Console.WriteLine($"Cavab:{result}");
         }
     }
 }
