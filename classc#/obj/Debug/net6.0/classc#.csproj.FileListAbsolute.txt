@@ -1,0 +1,14 @@
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\bin\Debug\net6.0\classc#.exe
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\bin\Debug\net6.0\classc#.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\bin\Debug\net6.0\classc#.runtimeconfig.json
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\bin\Debug\net6.0\classc#.dll
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\bin\Debug\net6.0\classc#.pdb
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.dll
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\refint\classc#.dll
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.pdb
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\classc#.genruntimeconfig.cache
+C:\Users\seidb\OneDrive\Masaüstü\classc#\classc#\classc#\obj\Debug\net6.0\ref\classc#.dll
