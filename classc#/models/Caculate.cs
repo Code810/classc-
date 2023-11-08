@@ -21,7 +21,7 @@ namespace classc_.models
 
         public void StartProsses()
         {
-            string result =prosses == "+" ? $"{num1 + num2}" :
+            string result = prosses == "+" ? $"{num1 + num2}" :
             prosses == "-" ? $"{num1 - num2}" :
             prosses == "*" ? $"{num1 * num2}" :
             prosses == "/" ? $"{num1 / num2}" :"Duzgun daxil edin";

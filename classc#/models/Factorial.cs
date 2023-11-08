@@ -16,12 +16,20 @@ namespace classc_.models
         public void Factor()
         { 
         long result = 1;
-            for (long i = input; i > 0; i--)
+            if(input > 0)
             {
-                result *= i;
+                for (long i = input; i > 0; i--)
+                {
+                    result *= i;
+                }
+                Console.WriteLine(result);
             }
-            Console.WriteLine(result);
+            else
+            {
+                Console.WriteLine("0 dan boyuk reqem olmalidir");
+            }
         }
+            
     
     }
 }
