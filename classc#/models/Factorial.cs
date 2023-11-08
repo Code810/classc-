@@ -16,17 +16,18 @@ namespace classc_.models
         public void Factor()
         { 
         long result = 1;
-            if(input > 0)
+            if(input < 0)
+            {
+                Console.WriteLine("Musbet eded daxil edin");
+                
+            }
+            else
             {
                 for (long i = input; i > 0; i--)
                 {
                     result *= i;
                 }
                 Console.WriteLine(result);
-            }
-            else
-            {
-                Console.WriteLine("0 dan boyuk reqem olmalidir");
             }
         }
             
